@@ -1,4 +1,5 @@
 # Angular and pattern behaviorsubject
+* Tenemos que borrar del archivo app.component.ts  la linea   "styleUrls: ['./app.component.css']" 
 
 [Demo](https://dennysjmarquez.github.io/angular-pattern-behaviorsubject/)
 
